@@ -1,0 +1,14 @@
+C:\Users\musta\source\repos\arkapaper\arkapaper\bin\Debug\net6.0\arkapaper.exe
+C:\Users\musta\source\repos\arkapaper\arkapaper\bin\Debug\net6.0\arkapaper.deps.json
+C:\Users\musta\source\repos\arkapaper\arkapaper\bin\Debug\net6.0\arkapaper.runtimeconfig.json
+C:\Users\musta\source\repos\arkapaper\arkapaper\bin\Debug\net6.0\arkapaper.dll
+C:\Users\musta\source\repos\arkapaper\arkapaper\bin\Debug\net6.0\arkapaper.pdb
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.AssemblyInfo.cs
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.dll
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\refint\arkapaper.dll
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.pdb
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\arkapaper.genruntimeconfig.cache
+C:\Users\musta\source\repos\arkapaper\arkapaper\obj\Debug\net6.0\ref\arkapaper.dll
